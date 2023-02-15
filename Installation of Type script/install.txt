@@ -1,0 +1,12 @@
+Step 1: install nodejs (https://nodejs.org/en/download/)
+Step 2:  Go to command prompt.
+step 3. command prompt run as administration.
+step 4.  We will install type script with the help of NPM(node package manager) 
+step 5. (npm install --global typescript) type this command prompt
+step 6. tsc -v (to check version of TS)
+step 7. create file with filename.ts (.ts) extension
+step 8. compile :- tsc filename.ts
+step 9. run node filename.js(this filename.js automatically generated)
+                                                      
+
+
