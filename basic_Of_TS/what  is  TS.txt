@@ -1,0 +1,8 @@
+Q.1) What does Type script do for you 
+Ans :- Static checking (analyse code with strictly)
+
+2.) It compiler  based    
+3 ) TS is development tool (helps to write better code)
+4 )  where to ready documentation 
+     https://www.typescriptlang.org/docs/
+5 ) Ts is dependent on JS 

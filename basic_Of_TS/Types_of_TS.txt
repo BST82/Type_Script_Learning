@@ -1,0 +1,28 @@
+
+
+primitives:-
+
+// string
+// number
+// boolean
+
+nonprimitives:- 
+
+// Arrays
+// any
+// noImplicitAny
+// const 
+// var
+// let
+// Function and its types
+// Object and its types
+// Union Types
+// Type Aliases
+// Interfaces
+// Type Assertions
+// Literal Types
+// null
+// undefined
+// Enums
+// bigInt
+// Symbol
