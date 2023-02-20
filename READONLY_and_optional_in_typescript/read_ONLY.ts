@@ -6,7 +6,7 @@ type User={
     name:string;
     email:string;
     isActive:boolean;
-    credit_Card?:number; // ? is used for optional it will not through error inside myUser 
+    credit_Card?:number; // ? is used for optional it will not through error inside myUser (most IMP)
 }
 
 let myuser:User={
