@@ -1,5 +1,7 @@
+"use strict";
 // readonly (keyword)
 // ? (optionl ) 
+exports.__esModule = true;
 var myuser = {
     _id: "123",
     name: "b",
@@ -9,4 +11,3 @@ var myuser = {
 myuser.email = "c@.com";
 var store_A = { a: 10 };
 var store_B = { b: 25 };
-//store_B.b=33; // it will show error because it is readonly

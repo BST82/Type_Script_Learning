@@ -36,7 +36,7 @@ type card_details=card_Number &  card_date & /*here & is used to combine */{
 type A={
     readonly a:number;
 }
-let store_A:A={ a:10}
+let store_A:A={ a:10};
 // store_A.a=22;// it is showing error 
 
 //eg 2) :-
@@ -47,3 +47,4 @@ type B={
 let store_B:Readonly<B>={ b:25};
 //store_B.b=33; // it will show error because it is readonly
 
+export{}
